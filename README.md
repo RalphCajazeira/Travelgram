@@ -44,7 +44,7 @@ O **Travelgram** apresenta:
 
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/travelgram.git
+   git clone https://github.com/RalphCajazeira/Travelgram.git
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
